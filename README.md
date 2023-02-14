@@ -1,1 +1,1 @@
-#JavaScript exercises, learning foundations.
+# JavaScript exercises, learning foundations.
